@@ -1,35 +1,25 @@
-# Osayawe Software Solutions
+# Osayawe Ventures
 
 
-[Osayawe Software Solutions](https://www.osayawe.com/) is a software engineering and design agency focused on building greenfield products.
+Osayawe Ventures is a parent company that specializes in investing and managing a diverse portfolio of businesses in various industries. We pride ourselves on our commitment to fostering growth and innovation within our portfolio companies, while also maintaining a strong focus on sustainability and social responsibility. 
 
-At Osayawe Solutions, we help startups build software products by [supporting the entire software development lifecycle](https://www.osayawe.com/services). 
+Our team of experienced professionals works closely with our portfolio companies to provide strategic guidance and support, helping them achieve their goals and maximize their potential. With a track record of successful investments and partnerships, Osayawe Ventures is a trusted partner for businesses looking to take their operations to the next level. 
 
-## [Our services](https://www.osayawe.com/services)
+Osayawe ventures is registered in Germany. 
 
--   Product Design
--   Mobile App Development
--   Full-Stack Web Development 
--   Dev-ops and Cloud Solutions
+## [10GURU Software Solutions](https://10guru.com)
+[10GURU](https://10guru.com) Software solutions, a brand of Osayawe Ventures, at [10GURU](https://10guru.com) Solutions, we help startups build software products by supporting the entire software development lifecycle.
 
-We have a [team](https://www.osayawe.com/about) of capable, multi-talented contributors who are passionate about software development and design, delivering nothing but the best. We believe that everyone should play to their strengths. Our diverse team does just that across many disciplines, ranging from software engineering, design, marketing, project management and the arts.
+## [Udemy Online Courses](https://www.udemy.com/user/osayaweterryogbemudia/)
+My passion is inspiring people through online courses. Since 2015, over 30,000 students have taken my online courses - and I'm so grateful to every single one of you. [View Courses](https://www.udemy.com/user/osayaweterryogbemudia/)              
 
-Software development is a complex process involving product development, design and engineering. We greatly reduce this complexity by centralizing the talent and process needed to bring a product from kick-off to completion.
+## [Claycrib Estate Management Software](https://app.claycrib.com/)
+[Claycrib](https://app.claycrib.com/) is a powerful integrated web-based multi-tenant solution for estate management. Rich with functionalities that allow you effortlessly manage estates, buildings, tenants, and payments anytime, anywhere. 
 
-## Our 4-step process:
-
-1.  Discovery, Scope & Strategy
-2.  Design & Prototyping
-3.  Development
-4.  Launch & Maintenance
-
-By implementing this four-step process, we can ensure that we remain true to the client's vision by asking the right questions, providing high fidelity prototypes, setting up test and staging environments and providing assistance every step of the way.
-
-[Our expertise](https://www.osayawe.com/about) is deep, diverse and above all, rare. We deliver scalable, production-grade software that is the result of industry best practices such as test-driven development and the [12 factor methodology](https://12factor.net).
-
+[Claycrib](https://app.claycrib.com/), is a software as a service solution built by [10GURU Software Solutions](https://10guru.com). 
 
 ## Work With Us
 
 At [Osayawe](https://www.osayawe.com), everyone is an independent contributor in-charge of their own work and schedule. Each member of our team draws their weekly goals from our global backlog and sees them to completion, collaborating with other team members to deliver comprehensive results.
 
-If you're goal-oriented like us, enjoy your artistic freedom and have strong but loosely held opinions-- then this may be the sign you've been looking for. [Contact us](mailto:contact@osayawe.com) for more information on how you can be a part of [Osayawe](https://www.osayawe.com).
+If you're goal-oriented like us, enjoy your artistic freedom and have strong but loosely held opinions-- then this may be the sign you've been looking for. [Contact us](mailto:terry@osayawe.com) for more information on how you can be a part of [Osayawe](https://www.osayawe.com).
